@@ -289,3 +289,7 @@ Icon
 
 
 # End of https://www.gitignore.io/api/node,macos,solidity,reactnative
+
+# Parcel
+/dist/dist
+/dist/.cache
